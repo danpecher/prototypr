@@ -1,0 +1,9 @@
+{
+	"require": {
+		"slim/slim": "~2.6",
+		"slim/extras": "dev-master",
+		"illuminate/view": "~5.1@dev",
+		"illuminate/events": "~5.1@dev"
+	},
+	"minimum-stability": "dev"
+}
